@@ -19,13 +19,47 @@ Y tras este speech motivacional, aquí puedes conocer en qué trabajo y qué tec
 ## Tecnologías
 
 ### Lenguajes
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.svgrepo.com%2Fsvg%2F303388%2Fjava-4-logo&psig=AOvVaw2ubLcAvoOq4ZimOh6H1FL1&ust=1763509672183000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqGAoTCJDWv86v-pADFQAAAAAdAAAAABDQAQ" alt="Java" width="40" height="40"/>
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<p>
+  <img src="https://www.svgrepo.com/show/303388/java-4-logo.svg" alt="Java" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/C_Programming_Language.svg/380px-C_Programming_Language.svg.png?20201031132917" alt="C" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/353925/javascript.svg" alt="JavaScript" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/373966/php.svg" alt="PHP" width="45" height="45"/>
+</p>
 
-
-
+### Frameworks
+<p>
+  <img src="https://www.svgrepo.com/show/354380/spring-icon.svg" alt="Spring" width="45" height="45"/>
+</p>
 
 ### Herramientas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+<p>
+  <img src="https://www.svgrepo.com/show/452210/git.svg" alt="Git" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/374171/vscode.svg" alt="VSCode" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/452236/jb-intellij-idea.svg" alt="IntelliJ" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/354516/vim.svg" alt="Vim" width="45" height="45"/>
+</p>
+
+### Bases de datos
+<p>
+  <img src="https://www.svgrepo.com/show/303251/mysql-logo.svg" alt="MySQL" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <img src="https://www.svgrepo.com/show/354152/oracle.svg" alt="Oracle" width="45" height="45"/>
+</p>
+
+### Cloud
+<p style="display: flex; align-items: center;">
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <span><strong>AWS</strong> ← Aún me estoy formando 🤓</span>
+</p>
+<p style="display: flex; align-items: center;">
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png" alt="Vercel" width="45" height="45"/>
+  &nbsp;&nbsp;
+  <span><strong>Vercel</strong> ← Aquí despliego proyectos estáticos 🧐</span>
+</p>
