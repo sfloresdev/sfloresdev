@@ -19,7 +19,7 @@ Y tras este speech motivacional, aquí puedes conocer en qué trabajo y qué tec
 ## Tecnologías
 
 ### Lenguajes
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pikpng.com%2Fpngvi%2FiRbRmiw_datei-java-logo-svg-java-logo-svg-clipart%2F&psig=AOvVaw2ubLcAvoOq4ZimOh6H1FL1&ust=1763509672183000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqGAoTCJDWv86v-pADFQAAAAAdAAAAABCBAQ)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
