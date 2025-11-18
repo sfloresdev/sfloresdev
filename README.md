@@ -50,12 +50,12 @@ Aquí puedes conocer en qué trabajo y qué tecnologías suelo utilizar para ell
 
 ### Cloud
 <p>
-  <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS" width="45" height="45" style="margin-top: 12px;"/>
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS" width="45" height="45" style="margin-top: 14px;"/>
   &nbsp;&nbsp;
-  <strong>AWS</strong> ← Aún me estoy formando 🤓
+  <strong>AWS</strong> <- Aún me estoy formando 🤓
 </p>
 <p>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png" alt="Vercel" width="45" height="45" style="margin-top: 12px;"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png" alt="Vercel" width="45" height="45" style="margin-top: 14px;"/>
   &nbsp;&nbsp;
-  <strong>Vercel</strong> ← Aquí despliego proyectos estáticos 🧐
+  <strong>Vercel</strong> <- Aquí despliego proyectos estáticos 🧐
 </p>
