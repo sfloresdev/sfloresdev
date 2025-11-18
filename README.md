@@ -54,12 +54,12 @@ Y tras este speech motivacional, aquí puedes conocer en qué trabajo y qué tec
 
 ### Cloud
 <p>
-  <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS" width="45" height="45" style="margin-top: 8px;"/>
+  <img src="https://www.svgrepo.com/show/448266/aws.svg" alt="AWS" width="45" height="45" style="margin-top: 12px;"/>
   &nbsp;&nbsp;
   <strong>AWS</strong> ← Aún me estoy formando 🤓
 </p>
 <p>
-  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png" alt="Vercel" width="45" height="45" style="margin-top: 8px;"/>
+  <img src="https://registry.npmmirror.com/@lobehub/icons-static-png/latest/files/dark/vercel.png" alt="Vercel" width="45" height="45" style="margin-top: 12px;"/>
   &nbsp;&nbsp;
   <strong>Vercel</strong> ← Aquí despliego proyectos estáticos 🧐
 </p>
