@@ -1,20 +1,16 @@
 ## Hola 👋 - Gracias por pasarte!
 
 ¿Qué tal? Bueno, me presento...
-Mi nombre es Sergio Flores, resido en Madrid (España) y actualmente soy estudiante de Desarrollo de Aplicaciones Web (DAW). Paralelo a ello, también me formo en 42 Madrid 🤍.
 
-Podría contar lo típico: desde pequeño me gustaba la informática, soy un apasionado de la tecnología...
-Pero no te voy a engañar, la informática y yo normalmente hemos tenido una buena relación, pero nada más.
-Sin embargo, tras acabar bachillerato y tener que tomar la decisión por la que todo el mundo pasa, ¿qué hago con mi vida ahora?, pensé que estudiar informática no estaría mal, así que me lancé a la piscina...
+Soy Sergio Flores, resido en Madrid y actualmente estudio Desarrollo de Aplicaciones Web (DAW) mientras me formo en 42 Madrid 🤍.
 
-Tengo la suerte de haber encontrado el campo profesional más apasionante del mundo (mi opinión), aquel con el que te peleas constantemente, pero encuentras una gran satisfacción tras resolver un problema que parece imposible.
+Podría contarte lo típico de que desde pequeño me apasionaba la informática... pero la verdad es que empezamos con una relación normal, nada especial. Sin embargo, tras decidirme a estudiarla, descubrí el campo más apasionante del mundo (mi opinión).
 
-Aquel con el que, sin ponernos demasiado filosóficos, cambia tu manera de ver el mundo y enfrentarte a los problemas desde otra perspectiva.
-Aquel con el que, a través del software, cambiamos la vida de cientos, miles y millones de personas y hacemos de este mundo un lugar más democrático, justo y, sobre todo, lleno de oportunidades.
+He encontrado un campo donde te peleas constantemente con problemas que parecen imposibles, pero la satisfacción al resolverlos no tiene precio. Uno que cambia tu forma de ver el mundo y enfrentarte a los retos.
 
-A pesar de mi corta edad y experiencia en general, creo fielmente en el impacto del software en nuestra vida y, por esto, estoy buscando oportunidades donde pueda aprender, crecer y aportar con mi curiosidad, compromiso y trabajo duro.
+Creo fielmente en el impacto del software para cambiar la vida de millones de personas y hacer de este mundo un lugar más democrático, justo y lleno de oportunidades. Por eso busco entornos donde aprender, crecer y aportar con mi curiosidad, compromiso y trabajo duro.
 
-Y tras este speech motivacional, aquí puedes conocer en qué trabajo y qué tecnologías suelo utilizar para ello 😊:
+Aquí puedes conocer en qué trabajo y qué tecnologías suelo utilizar para ello 😊:
 
 ## Tecnologías
 
